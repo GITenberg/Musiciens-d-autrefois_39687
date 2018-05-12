@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2602
     wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39687#Musiciens-d-autrefois
 gutenberg_bookshelf: FR Musique
 gutenberg_issued: '2012-05-13'
 gutenberg_type: Text
